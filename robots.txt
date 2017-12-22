@@ -1,0 +1,10 @@
+User-agent: Mediapartners-Google
+
+disallow: /
+disallow: /deploy/
+disallow: /dump/
+disallow: /zip/
+disallow: /dev/
+disallow: /trial/
+
+Sitemap: http://tid.rhgnews.com/sitemaps/sitemap-2017-02-15.xml
